@@ -17,7 +17,7 @@ public class MainMenu : MonoBehaviour
                 
     }
     
-    
+    //  vamos a poner un comentario de prueba
     public void EscenaJuego()
     {
         SceneManager.LoadScene("SampleScene");
