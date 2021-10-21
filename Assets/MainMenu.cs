@@ -22,9 +22,11 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
-    
+    // Esta funcion es para salir
     public void Salir()
     {
         Application.Quit();
     }
 }
+
+
